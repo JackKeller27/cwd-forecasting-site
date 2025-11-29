@@ -1,2 +1,2 @@
 # cwd-forecasting-site
-CWD Forecasting Project Site
+Site: https://jackkeller27.github.io/cwd-forecasting-site/
