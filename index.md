@@ -1,14 +1,14 @@
 # Forecasting Chronic Wasting Disease with a Metapopulation-SIR Informed Graph Neural Network
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <td><img src="./" width=130 height=160></td>
-    <td><img src="./pictures/jack.jpg" width=130 height=160></td>
-    <td><img src="./" width=130 height=160></td>
+    <td style="border: none;"><img src="./" width="130" height="160"></td>
+    <td style="border: none;"><img src="./pictures/jack.jpg" width="130" height="160"></td>
+    <td style="border: none;"><img src="./" width="130" height="160"></td>
   </tr>
   <tr>
-    <td>Victor Henriksson</td>
-    <td>Jack Keller</td>
-    <td>Joseph Yoo</td>
+    <td style="border: none;">Victor Henriksson</td>
+    <td style="border: none;">Jack Keller</td>
+    <td style="border: none;">Joseph Yoo</td>
   </tr>
 </table>
 
@@ -18,5 +18,3 @@
 [Poster](TODO)
 
 ## Summary
-
-## Results
